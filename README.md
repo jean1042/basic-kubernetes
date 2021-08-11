@@ -2,6 +2,7 @@
 
 > Here is the Study List with kubernetes in action 
 > All copyrights goes to https://github.com/luksa/kubernetes-in-action    
+> A Part of [INFRA] in @jean1042's BTBBE project https://github.com/users/jean1042/projects/1
 
 Title  | Completed | Date | Issues 
 :-----:|:---------:|:----:|:------
